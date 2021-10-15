@@ -1,30 +1,22 @@
-# Створено https://www.toptal.com/developers/gitignore/api/windows
-# Редагувати на https://www.toptal.com/developers/gitignore?templates=windows
+<html>
+<head>
+<title>  перша веб сторінка лунтіка228 </title>
+</head>
+<body>
+<body bgcolor="#afe7ec"  <body text="#336699">
+<center>
+<h1>привіт! </h1>
+<h2>мене звати Сашко. <h2>
+</center>
+<hr SIZE=2 WIDTH=100%<br>
+<h3>Мені 12 років</h3>
+<hr SIZE=4 WIDTH=50% <br>
+<font color="#CC0000"> Ласкаво Прошу! </font>
+<hr SIZE=4 WIDTH=50% <br>
 
-### Windows ###
-# Файли кешу ескізів Windows
-Thumbs.db
-Thumbs.db: зашифровується
-ehthumbs.db
-ehthumbs_vista.db
+<h4>Я хочу стати Web-дезайнером </h4>
+<b>Це моя </b> <i>пeрша </i> <u>Web-сторінка </u>
+</hr>
+</body>
 
-# Дамп файл
-*.stackdump
-
-# Файл конфігурації папки
-[Dd] esktop.ini
-
-# Кошик, що використовується у спільних файлах
-$ RECYCLE.BIN/
-
-# Файли інсталятора Windows
-*.таксі
-*.msi
-*.msix
-*.msm
-*.msp
-
-# Ярлики Windows
-*.lnk
-
-# Кінець https://www.toptal.com/developers/gitignore/api/windows
+</html>
